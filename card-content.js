@@ -12,13 +12,11 @@ let items = [
         desc:"abcdefg"
     },
 
-
-    
     {
         imgSrc: "../imgs/img-cheesecake.png",
         title:"Cheesecake",
         price:"$20.99",
-        desc:"abcdefg"
+        desc:"Sweetness beyond Imagination"
     }
 
 ]
